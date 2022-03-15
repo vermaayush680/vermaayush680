@@ -1,6 +1,6 @@
 # :wave: Hello <b>developers</b>, I am <b>Ayush Verma</b>
 
-An Open-Source Contributor (even though all I've done is aligned divs and images).
+An Open-Source Contributor.
 Experienced in Python and Django, currently exploring Data Science and Machine Learning (making Overfitting Regression models is my hobby)
 
 # 💫About Me :
@@ -8,7 +8,7 @@ Experienced in Python and Django, currently exploring Data Science and Machine L
 - :earth_africa:		 I like to contribute to open source and explore github.
 - :handshake: If you want any collaboration feel free to mail me at vermaayush680@gmail.com.
 - :v: I'm open to opportunities.
-- :zap: Other than programming (YES!! I have a life), I read books.
+- :zap: Other than creating O(n^2) algorithms, I read books.
 
 
 ## 🌐Socials
